@@ -1,0 +1,29 @@
+# 提升国内Apple Music体验
+host-suffix,blobstore.apple.com,proxy
+host-suffix,itsliveradio.apple.com,proxy
+host-suffix,aodp-ssl.apple.com,proxy
+host-suffix,video-ssl.itunes.apple.com,proxy
+host-suffix,mvod.itunes.apple.com,proxy
+host-suffix,hls-amt.itunes.apple.com,proxy
+host-suffix,audio-ssl.itunes.apple.com,proxy
+host-suffix,streamingaudio.itunes.apple.com,proxy
+host-suffix,amazonaws.com,proxy
+host-suffix,audio.itunes.apple.com,proxy
+
+# Apple
+host-suffix,aaplimg.com
+host-suffix,apple.co
+host-suffix,apple.com
+host-suffix,apple.com.cn
+host-suffix,apple-cloudkit.com
+host-suffix,apple-livephotoskit.com
+host-suffix,apple-mapkit.com
+host-suffix,applemusic.com
+host-suffix,appstore.com
+host-suffix,apzones.com
+host-suffix,cdn-apple.com
+host-suffix,icloud.com
+host-suffix,icloud.com.cn
+host-suffix,icloud-content.com
+host-suffix,me.com
+host-suffix,mzstatic.com
