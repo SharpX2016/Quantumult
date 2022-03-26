@@ -1,13 +1,3 @@
 # 提升国内Apple Music体验
 host-suffix,blobstore.apple.com,proxy
-host-suffix,itsliveradio.apple.com,proxy
-host-suffix,aodp-ssl.apple.com,proxy
-host-suffix,video-ssl.itunes.apple.com,proxy
-host-suffix,mvod.itunes.apple.com,proxy
-host-suffix,hls-amt.itunes.apple.com,proxy
-host-suffix,audio-ssl.itunes.apple.com,proxy
-host-suffix,streamingaudio.itunes.apple.com,proxy
-host-suffix,amazonaws.com,proxy
-host-suffix,audio.itunes.apple.com,proxy
-
 
