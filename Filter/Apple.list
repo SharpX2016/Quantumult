@@ -10,20 +10,4 @@ host-suffix,streamingaudio.itunes.apple.com,proxy
 host-suffix,amazonaws.com,proxy
 host-suffix,audio.itunes.apple.com,proxy
 
-# Apple
-host-suffix,aaplimg.com
-host-suffix,apple.co
-host-suffix,apple.com
-host-suffix,apple.com.cn
-host-suffix,apple-cloudkit.com
-host-suffix,apple-livephotoskit.com
-host-suffix,apple-mapkit.com
-host-suffix,applemusic.com
-host-suffix,appstore.com
-host-suffix,apzones.com
-host-suffix,cdn-apple.com
-host-suffix,icloud.com
-host-suffix,icloud.com.cn
-host-suffix,icloud-content.com
-host-suffix,me.com
-host-suffix,mzstatic.com
+
